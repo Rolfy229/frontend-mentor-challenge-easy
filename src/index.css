@@ -1,0 +1,27 @@
+body {
+    font-family: 'Shantell Sans', cursive;
+}
+
+.d-flex.flex-row.card.col-lg-4.mx-auto.rounded-5 {
+    height: 50vh
+}
+
+.rounded-5.text-white.p-2,
+.btn.rounded-5.text-white.px-5
+{
+    background: linear-gradient(180deg, rgb(56, 113, 169) 0%, rgb(59, 43, 199) 35%)
+}
+
+.rounded-circle.shadow{
+    width: 145px;
+    height: 145px
+}
+
+.attribution.mt-4 {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution.mt-4 a {
+    color: hsl(228, 45%, 44%);
+}
